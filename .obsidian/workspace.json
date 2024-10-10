@@ -1,0 +1,172 @@
+{
+  "main": {
+    "id": "4c21813df6ed6ff5",
+    "type": "split",
+    "children": [
+      {
+        "id": "75b5fabe0ff7fc8e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2c4c166262aad03e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "考核内容/pca.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "acfbd07ce57fa0c6",
+    "type": "split",
+    "children": [
+      {
+        "id": "dea8e05e326f278b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "caf615553515c543",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2af7cf2826860f13",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a577eb5e58ecf39f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 298.5
+  },
+  "right": {
+    "id": "9773e58b48c23187",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d3110ac2deec9df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4623b4d17f7b7a4d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "考核内容/pca.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a713dfa6f9221821",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "考核内容/pca.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "aaf22d482788689b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1bcce3a5d0f63286",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "考核内容/pca.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "caf615553515c543",
+  "lastOpenFiles": [
+    "deep_Learning/3.什么是卷积神经网络？.md",
+    "deep_Learning/6.Gradient desent for neural network.md",
+    "deep_Learning/5.Batch Normalization.md",
+    "deep_Learning/2.什么是神经网络？.md",
+    "deep_Learning/1.感知机.md",
+    "deep_Learning/0.Intro.md",
+    "deep_Learning",
+    "考核内容/kNN.md",
+    "machine-learning/1.监督学习与无监督学习.md",
+    "machine-learning/attachments/Pasted image 20240924191839.png",
+    "machine-learning/attachments/14a375ad1958bfbac76a5e7a9f51275.png",
+    "machine-learning/5.Regularization正则.md",
+    "Pasted image 20240922161633.png",
+    "machine-learning/3.Multiple linear regression 多元线性回归.md",
+    "machine-learning/2.Linear Regression 线性回归.md",
+    "考核内容/pca.md",
+    "考核内容/Pasted image 20241004083221.png",
+    "考核内容/09121b82f28bab6205cc34bd3012c76.jpg",
+    "考核内容/b0bbe2420aa5c9206a96a41fcc00ae3.jpg"
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "main": {
+    "id": "142d5a7ec5789a4c",
+    "type": "split",
+    "children": [
+      {
+        "id": "faefc19a6ed6433f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8cf91dc346656093",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5.Regularization正则.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "920f527e153afdb6",
+    "type": "split",
+    "children": [
+      {
+        "id": "bebbc7203c0b7dc4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b19a3d0a30d06af1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5dae8cdc41b0ec3b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8999bc6e0270b701",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a6f9f0576708b688",
+    "type": "split",
+    "children": [
+      {
+        "id": "07e3039f7f873d6c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4e5b576323a7629c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "5.Regularization正则.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ff922e8bef43be52",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "5.Regularization正则.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0563f29b45839797",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "162e66c3881cc3d0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "5.Regularization正则.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "8cf91dc346656093",
+  "lastOpenFiles": [
+    "4.Classification分类.md",
+    "3.Multiple linear regression 多元线性回归.md",
+    "2.Linear Regression 线性回归.md",
+    "1.监督学习与无监督学习.md"
+  ]
+}
