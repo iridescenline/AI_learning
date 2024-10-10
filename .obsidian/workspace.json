@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "考核内容/kNN.md",
+                "file": "考核内容/ResNet.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "考核内容/kNN.md",
+                "file": "考核内容/ResNet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "考核内容/kNN.md",
+                "file": "考核内容/ResNet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "考核内容/kNN.md"
+                "file": "考核内容/ResNet.md"
               }
             }
           }
@@ -150,6 +150,8 @@
   "active": "2c4c166262aad03e",
   "lastOpenFiles": [
     "考核内容/pca.md",
+    "未命名.md",
+    "考核内容/kNN.md",
     "deep_learning/6.Gradient desent for neural network.md",
     "machine-learning/2.Linear Regression 线性回归.md",
     "machine-learning/5.Regularization正则.md",
@@ -165,7 +167,6 @@
     "deep_Learning/1.感知机.md",
     "deep_Learning/0.Intro.md",
     "deep_Learning",
-    "考核内容/kNN.md",
     "machine-learning/1.监督学习与无监督学习.md",
     "machine-learning/attachments/Pasted image 20240924191839.png",
     "machine-learning/attachments/14a375ad1958bfbac76a5e7a9f51275.png",
