@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a257f6789b4429f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "deep_learning/3.什么是卷积神经网络？.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5,
-    "collapsed": true
+    "width": 298.5
   },
   "right": {
     "id": "9773e58b48c23187",
@@ -148,18 +160,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2c4c166262aad03e",
+  "active": "a257f6789b4429f3",
   "lastOpenFiles": [
-    "deep_learning/2.什么是神经网络？.md",
+    "deep_learning/4.经典网络.md",
     "deep_learning/3.什么是卷积神经网络？.md",
+    "deep_learning/6.Gradient desent for neural network.md",
+    "deep_learning/5.Batch Normalization.md",
+    "deep_learning/2.什么是神经网络？.md",
     "考核内容/ResNet.md",
     "deep_learning/1.感知机.md",
     "考核内容/pca.md",
     "考核内容/Pasted image 20241010140940.png",
     "考核内容/Pasted image 20241010143528.png",
-    "未命名.md",
     "考核内容/kNN.md",
-    "deep_learning/6.Gradient desent for neural network.md",
     "machine-learning/2.Linear Regression 线性回归.md",
     "machine-learning/5.Regularization正则.md",
     " - 副本.gitattributes",
