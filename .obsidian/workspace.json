@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "deep_learning/3.什么是卷积神经网络？.md",
+                "file": "deep_learning/4.经典网络.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5
+    "width": 298.5,
+    "collapsed": true
   },
   "right": {
     "id": "9773e58b48c23187",
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "deep_learning/3.什么是卷积神经网络？.md",
+                "file": "deep_learning/4.经典网络.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "deep_learning/3.什么是卷积神经网络？.md",
+                "file": "deep_learning/4.经典网络.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "deep_learning/3.什么是卷积神经网络？.md"
+                "file": "deep_learning/4.经典网络.md"
               }
             }
           }
@@ -162,8 +163,8 @@
   },
   "active": "a257f6789b4429f3",
   "lastOpenFiles": [
-    "deep_learning/4.经典网络.md",
     "deep_learning/3.什么是卷积神经网络？.md",
+    "deep_learning/4.经典网络.md",
     "deep_learning/6.Gradient desent for neural network.md",
     "deep_learning/5.Batch Normalization.md",
     "deep_learning/2.什么是神经网络？.md",
