@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "11056b54435df8fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "考核内容/FCN.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -82,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5,
-    "collapsed": true
+    "width": 298.5
   },
   "right": {
     "id": "9773e58b48c23187",
@@ -99,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "deep_learning/4.经典网络.md",
+                "file": "考核内容/FCN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "deep_learning/4.经典网络.md",
+                "file": "考核内容/FCN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "deep_learning/4.经典网络.md"
+                "file": "考核内容/FCN.md"
               }
             }
           }
@@ -161,8 +172,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a257f6789b4429f3",
+  "active": "11056b54435df8fd",
   "lastOpenFiles": [
+    "考核内容/ResNet.md",
+    "考核内容/pca.md",
+    "考核内容/kNN.md",
+    "考核内容/FCN.md",
+    "deep_learning/4.经典网络.md",
+    "deep_learning/网络中的网络.md",
+    "deep_learning/3.什么是卷积神经网络？.md",
+    "deep_learning/Gradient desent for neural network.md",
+    "deep_learning/Batch Normalization.md",
+    "deep_learning/1.感知机.md",
+    "未命名.canvas",
     "data/FashionMNIST/raw/t10k-labels-idx1-ubyte",
     "data/FashionMNIST/raw/t10k-labels-idx1-ubyte.gz",
     "data/FashionMNIST/raw/t10k-images-idx3-ubyte",
@@ -173,18 +195,9 @@
     "data/FashionMNIST/raw/train-images-idx3-ubyte.gz",
     "data/FashionMNIST/raw",
     "data/FashionMNIST",
-    "data",
-    "deep_learning/3.什么是卷积神经网络？.md",
-    "deep_learning/4.经典网络.md",
-    "deep_learning/6.Gradient desent for neural network.md",
-    "deep_learning/5.Batch Normalization.md",
     "deep_learning/2.什么是神经网络？.md",
-    "考核内容/ResNet.md",
-    "deep_learning/1.感知机.md",
-    "考核内容/pca.md",
     "考核内容/Pasted image 20241010140940.png",
     "考核内容/Pasted image 20241010143528.png",
-    "考核内容/kNN.md",
     "machine-learning/2.Linear Regression 线性回归.md",
     "machine-learning/5.Regularization正则.md",
     "machine-learning/4.Classification分类.md",
