@@ -82,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5,
-    "collapsed": true
+    "width": 298.5
   },
   "right": {
     "id": "9773e58b48c23187",
@@ -163,6 +162,9 @@
   },
   "active": "a257f6789b4429f3",
   "lastOpenFiles": [
+    "考核内容/kNN.md",
+    "考核内容/ResNet.md",
+    "考核内容/pca主成分分析.md",
     "deep_learning/4.经典网络.md",
     "deep_learning/Batch Normalization.md",
     "deep_learning/3.什么是卷积神经网络？.md",
@@ -174,12 +176,9 @@
     "machine-learning/4.Classification分类.md",
     "machine-learning/1.监督学习与无监督学习.md",
     "machine-learning/5.Regularization正则.md",
-    "考核内容/pca主成分分析.md",
     "deep_learning/网络中的网络（待填）.md",
     "deep_learning/0.Intro.md",
-    "考核内容/ResNet.md",
     "考核内容/FCN.md",
-    "考核内容/kNN.md",
     "考核内容/Pasted image 20241004083221.png",
     "考核内容/09121b82f28bab6205cc34bd3012c76.jpg",
     "考核内容/9.28.md",
