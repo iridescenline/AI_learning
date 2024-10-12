@@ -25,18 +25,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "deep_learning/4.经典网络.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "11056b54435df8fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "考核内容/pca.md",
                 "mode": "source",
                 "source": false
@@ -44,7 +32,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5
+    "width": 298.5,
+    "collapsed": true
   },
   "right": {
     "id": "9773e58b48c23187",
@@ -172,9 +161,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "11056b54435df8fd",
+  "active": "a257f6789b4429f3",
   "lastOpenFiles": [
+    "考核内容/ResNet.md",
+    "考核内容/pca.md",
     "考核内容/kNN.md",
+    "考核内容/FCN.md",
+    "deep_learning/4.经典网络.md",
+    "考核内容/Pasted image 20241004083221.png",
+    "考核内容/09121b82f28bab6205cc34bd3012c76.jpg",
+    "考核内容/9.28.md",
+    "考核内容/7ce11a96b4b2e398a19da5a5ce41218.jpg",
     "考核内容/Pasted image 20241010143528.png",
     "考核内容/Pasted image 20241010140940.png",
     "考核内容/Pasted image 20241010132855.png",
@@ -182,15 +179,7 @@
     "考核内容/Pasted image 20241005181950.png",
     "考核内容/Pasted image 20241005180709.png",
     "考核内容/Pasted image 20241005102210.png",
-    "考核内容/Pasted image 20241005085318.png",
-    "考核内容/Pasted image 20241004150421.png",
-    "考核内容/Pasted image 20241004150239.png",
-    "考核内容/9.28.md",
-    "考核内容/pca.md",
-    "考核内容/ResNet.md",
-    "考核内容/FCN.md",
     "deep_learning/网络中的网络（待填）.md",
-    "deep_learning/4.经典网络.md",
     "deep_learning/3.什么是卷积神经网络？.md",
     "deep_learning/Gradient desent for neural network.md",
     "deep_learning/Batch Normalization.md",

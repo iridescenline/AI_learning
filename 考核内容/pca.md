@@ -23,15 +23,15 @@
 若要表示在图A中的数据点，我们需要X和Y两个坐标轴来表示，而若我们把图A旋转至图B，此时用PC1这一个坐标轴就能表示出数据点之间的差异。
 
 理想情况下（可以降到一维）：
-![[Pasted image 20241004103202.png]]
+![Pasted image 20241004103202](https://erin-53347-1330131220.cos.ap-guangzhou.myqcloud.com/202410121912851.png)
 
 Ps:上图数据已经过初步处理（中心化）
 
-![[Pasted image 20241004103257.png]]
-![[Pasted image 20241004103328.png]]
+![Pasted image 20241004103257](https://erin-53347-1330131220.cos.ap-guangzhou.myqcloud.com/202410121913192.png)
+![Pasted image 20241004103328](https://erin-53347-1330131220.cos.ap-guangzhou.myqcloud.com/202410121913949.png)
 
 旋转过后的坐标系，横纵坐标不再表示房价和面积，而是两者的“混合”，这时，我们将横纵坐标分别称为PC1和PC2.
-![[Pasted image 20241004103524.png]]
+![Pasted image 20241004103524](https://erin-53347-1330131220.cos.ap-guangzhou.myqcloud.com/202410121913823.png)
 
 
 这就是主成分分析，在实际情况中，变量更多，也就更复杂一些，但原理是相同的。
