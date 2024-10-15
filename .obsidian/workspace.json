@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "deep_learning/3.什么是卷积神经网络？.md",
+                "file": "deep_learning/4.经典网络.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b3d5db3ccbda895f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "deep_learning/转置卷积.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -82,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5
+    "width": 298.5,
+    "collapsed": true
   },
   "right": {
     "id": "9773e58b48c23187",
@@ -98,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "deep_learning/3.什么是卷积神经网络？.md",
+                "file": "deep_learning/转置卷积.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "deep_learning/3.什么是卷积神经网络？.md",
+                "file": "deep_learning/转置卷积.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "deep_learning/3.什么是卷积神经网络？.md"
+                "file": "deep_learning/转置卷积.md"
               }
             }
           }
@@ -160,11 +173,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a257f6789b4429f3",
+  "active": "b3d5db3ccbda895f",
   "lastOpenFiles": [
     "deep_learning/4.经典网络.md",
-    "考核内容/ResNet.md",
+    "deep_learning/转置卷积.md",
     "deep_learning/3.什么是卷积神经网络？.md",
+    "考核内容/ResNet.md",
     "machine-learning/5.Regularization正则.md",
     "machine-learning/4.Classification分类.md",
     "machine-learning/3.Multiple linear regression 多元线性回归.md",
