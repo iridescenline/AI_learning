@@ -172,12 +172,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b3d5db3ccbda895f",
+  "active": "caf615553515c543",
   "lastOpenFiles": [
+    "deep_learning/1.感知机.md",
+    "deep_learning/转置卷积.md",
     "data/VOCtrainval_11-May-2012.tar",
     "考核内容/t01174fd3282cdbe5e3.jpg",
     "deep_learning/4.经典网络.md",
-    "deep_learning/转置卷积.md",
     "deep_learning/3.什么是卷积神经网络？.md",
     "考核内容/ResNet.md",
     "machine-learning/5.Regularization正则.md",
@@ -188,7 +189,6 @@
     "deep_learning/Batch Normalization.md",
     "考核内容/pca主成分分析.md",
     "deep_learning/2.什么是神经网络？.md",
-    "deep_learning/1.感知机.md",
     "考核内容/kNN.md",
     "考核内容/FCN.md",
     "deep_learning/Gradient desent for neural network.md",
@@ -214,7 +214,6 @@
     "data/FashionMNIST/raw/train-images-idx3-ubyte",
     "data/FashionMNIST/raw/train-images-idx3-ubyte.gz",
     "data/FashionMNIST/raw",
-    "data/FashionMNIST",
     "deep_Learning/3.什么是卷积神经网络？.md",
     "deep_Learning/6.Gradient desent for neural network.md",
     "deep_Learning/5.Batch Normalization.md",
