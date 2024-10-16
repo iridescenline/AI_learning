@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9e0a0e75b2b9316c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "deep_learning/双线性插值.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -94,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5
+    "width": 298.5,
+    "collapsed": true
   },
   "right": {
     "id": "9773e58b48c23187",
@@ -110,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "deep_learning/转置卷积.md",
+                "file": "deep_learning/双线性插值.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "deep_learning/转置卷积.md",
+                "file": "deep_learning/双线性插值.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "deep_learning/转置卷积.md"
+                "file": "deep_learning/双线性插值.md"
               }
             }
           }
@@ -172,10 +185,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "caf615553515c543",
+  "active": "9e0a0e75b2b9316c",
   "lastOpenFiles": [
-    "deep_learning/1.感知机.md",
     "deep_learning/转置卷积.md",
+    "deep_learning/双线性插值.md",
+    "deep_learning/1.感知机.md",
     "data/VOCtrainval_11-May-2012.tar",
     "考核内容/t01174fd3282cdbe5e3.jpg",
     "deep_learning/4.经典网络.md",
