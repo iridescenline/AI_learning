@@ -174,8 +174,12 @@
   },
   "active": "a257f6789b4429f3",
   "lastOpenFiles": [
-    "machine-learning/2.Linear Regression 线性回归.md",
+    "10.16/数据操作.ipynb",
+    "10.16/Untitled.ipynb",
+    "10.16/数据操作.md",
     "machine-learning/3.Multiple linear regression 多元线性回归.md",
+    "10.16",
+    "machine-learning/2.Linear Regression 线性回归.md",
     "deep_learning/Gradient desent for neural network.md",
     "deep_learning/Batch Normalization.md",
     "考核内容/FCN.md",
@@ -213,12 +217,9 @@
     "data/FashionMNIST/raw/train-labels-idx1-ubyte",
     "data/FashionMNIST/raw/train-labels-idx1-ubyte.gz",
     "data/FashionMNIST/raw/train-images-idx3-ubyte",
-    "data/FashionMNIST/raw/train-images-idx3-ubyte.gz",
-    "data/FashionMNIST/raw",
     "deep_Learning/3.什么是卷积神经网络？.md",
     "deep_Learning/6.Gradient desent for neural network.md",
     "deep_Learning/5.Batch Normalization.md",
-    "deep_Learning/2.什么是神经网络？.md",
-    "deep_Learning/1.感知机.md"
+    "deep_Learning/2.什么是神经网络？.md"
   ]
 }
