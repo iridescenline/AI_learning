@@ -2,7 +2,6 @@
 参考资料：[全卷积网络 FCN 详解 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/30195134)
 		  https://www.youtube.com/watch?v=Ahge3GzQ3Kg
 
-
 ## CNN进行语义分割 的优劣点
 
 CNN的强大之处在于它的多层结构能够自动学习特征，并且可以学到多个层次的特征：较浅的卷积层感知域小，能学到一些局部的特征，而较深的卷积层感知域大，能学到一些更加抽象的特征。这些抽象特征对物体的大小，位置和方向等敏感度更低，有助于图像内容的分类。与此同时，抽象特征丢失了一些物体的细节，不能很好地给出物体地具体轮廓，指出每个像素具体属于哪个物体，因此难以做到精确的分割。
@@ -30,6 +29,7 @@ part3：跳远连接 skip connection
 
 ![image.png](https://erin-53347-1330131220.cos.ap-guangzhou.myqcloud.com/202410161929052.png)
 
+![image.png](https://erin-53347-1330131220.cos.ap-guangzhou.myqcloud.com/202410161934579.png)
 
 
 
