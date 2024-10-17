@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "deep_learning/4.经典网络.md",
+                "file": "deep_learning/3.什么是卷积神经网络？.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4.经典网络"
+              "title": "3.什么是卷积神经网络？"
             }
           }
         ],
@@ -92,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5
+    "width": 298.5,
+    "collapsed": true
   },
   "right": {
     "id": "9773e58b48c23187",
@@ -180,6 +181,7 @@
   },
   "active": "832e9abb4e6a4dd9",
   "lastOpenFiles": [
+    "deep_learning/4.经典网络.md",
     "deep_learning/正则化.md",
     "machine-learning/5.Regularization正则.md",
     "deep_learning/bias-variance tradeoff.md",
@@ -189,7 +191,6 @@
     "deep_learning/Gradient desent for neural network.md",
     "未命名",
     "deep_learning/0.Intro.md",
-    "deep_learning/4.经典网络.md",
     "考核内容/FCN.md",
     "deep_learning/3.什么是卷积神经网络？.md",
     "deep_learning/2.什么是神经网络？.md",
