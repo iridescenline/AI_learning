@@ -16,7 +16,9 @@
                 "file": "deep_learning/3.什么是卷积神经网络？.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "3.什么是卷积神经网络？"
             }
           },
           {
@@ -28,7 +30,21 @@
                 "file": "deep_learning/Gradient desent for neural network.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Gradient desent for neural network"
+            }
+          },
+          {
+            "id": "a42d6070e88a8f44",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.4"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.4"
             }
           },
           {
@@ -40,11 +56,13 @@
                 "file": "deep_learning/转置卷积.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "转置卷积"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -64,7 +82,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
             }
           },
           {
@@ -79,7 +99,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
             }
           },
           {
@@ -87,7 +109,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
             }
           }
         ]
@@ -111,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "deep_learning/Gradient desent for neural network.md",
+                "file": "deep_learning/3.什么是卷积神经网络？.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +143,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "3.什么是卷积神经网络？ 的反向链接列表"
             }
           },
           {
@@ -128,10 +154,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "deep_learning/Gradient desent for neural network.md",
+                "file": "deep_learning/3.什么是卷积神经网络？.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "3.什么是卷积神经网络？ 的出链列表"
             }
           },
           {
@@ -142,7 +170,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
             }
           },
           {
@@ -151,8 +181,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "deep_learning/Gradient desent for neural network.md"
-              }
+                "file": "deep_learning/3.什么是卷积神经网络？.md"
+              },
+              "icon": "lucide-list",
+              "title": "3.什么是卷积神经网络？ 的大纲"
             }
           }
         ]
@@ -173,7 +205,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a257f6789b4429f3",
+  "active": "a42d6070e88a8f44",
   "lastOpenFiles": [
     "deep_learning/Batch Normalization.md",
     "deep_learning/图像插值.md",
