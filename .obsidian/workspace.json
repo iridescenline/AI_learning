@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "machine-learning/3.Multiple linear regression 多元线性回归.md",
+                "file": "deep_learning/Gradient desent for neural network.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5
+    "width": 298.5,
+    "collapsed": true
   },
   "right": {
     "id": "9773e58b48c23187",
@@ -110,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "machine-learning/3.Multiple linear regression 多元线性回归.md",
+                "file": "deep_learning/Gradient desent for neural network.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "machine-learning/3.Multiple linear regression 多元线性回归.md",
+                "file": "deep_learning/Gradient desent for neural network.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "machine-learning/3.Multiple linear regression 多元线性回归.md"
+                "file": "deep_learning/Gradient desent for neural network.md"
               }
             }
           }
@@ -174,31 +175,31 @@
   },
   "active": "a257f6789b4429f3",
   "lastOpenFiles": [
+    "deep_learning/Batch Normalization.md",
+    "deep_learning/图像插值.md",
+    "deep_learning/4.经典网络.md",
+    "deep_learning/3.什么是卷积神经网络？.md",
+    "deep_learning/2.什么是神经网络？.md",
+    "deep_learning/1.感知机.md",
+    "deep_learning/0.Intro.md",
+    "machine-learning/2.Linear Regression 线性回归.md",
+    "machine-learning/3.Multiple linear regression 多元线性回归.md",
+    "machine-learning/4.Classification分类.md",
+    "machine-learning/5.Regularization正则.md",
+    "machine-learning/1.监督学习与无监督学习.md",
     "10.16/数据操作.ipynb",
     "10.16/Untitled.ipynb",
     "10.16/数据操作.md",
-    "machine-learning/3.Multiple linear regression 多元线性回归.md",
     "10.16",
-    "machine-learning/2.Linear Regression 线性回归.md",
     "deep_learning/Gradient desent for neural network.md",
-    "deep_learning/Batch Normalization.md",
     "考核内容/FCN.md",
     "考核内容/ResNet.md",
     "deep_learning/转置卷积.md",
-    "deep_learning/图像插值.md",
     "考核内容/t01174fd3282cdbe5e3.jpg",
     "考核内容/pca主成分分析.md",
     "考核内容/kNN.md",
-    "deep_learning/4.经典网络.md",
-    "deep_learning/3.什么是卷积神经网络？.md",
-    "deep_learning/1.感知机.md",
     "data/VOCtrainval_11-May-2012.tar",
-    "machine-learning/5.Regularization正则.md",
-    "machine-learning/4.Classification分类.md",
-    "machine-learning/1.监督学习与无监督学习.md",
-    "deep_learning/2.什么是神经网络？.md",
     "deep_learning/网络中的网络（待填）.md",
-    "deep_learning/0.Intro.md",
     "考核内容/Pasted image 20241004083221.png",
     "考核内容/09121b82f28bab6205cc34bd3012c76.jpg",
     "考核内容/9.28.md",
@@ -216,7 +217,6 @@
     "data/FashionMNIST/raw/t10k-images-idx3-ubyte.gz",
     "data/FashionMNIST/raw/train-labels-idx1-ubyte",
     "data/FashionMNIST/raw/train-labels-idx1-ubyte.gz",
-    "data/FashionMNIST/raw/train-images-idx3-ubyte",
     "deep_Learning/3.什么是卷积神经网络？.md",
     "deep_Learning/6.Gradient desent for neural network.md",
     "deep_Learning/5.Batch Normalization.md",
