@@ -181,6 +181,11 @@
   },
   "active": "832e9abb4e6a4dd9",
   "lastOpenFiles": [
+    "code/LeNet.ipynb",
+    "code/Untitled.ipynb",
+    "code/Untitled Folder",
+    "code",
+    "Untitled Folder",
     "deep_learning/4.经典网络.md",
     "deep_learning/正则化.md",
     "machine-learning/5.Regularization正则.md",
@@ -221,12 +226,7 @@
     "考核内容/Pasted image 20241005180709.png",
     "未命名.canvas",
     "data/FashionMNIST/raw/t10k-labels-idx1-ubyte",
-    "data/FashionMNIST/raw/t10k-labels-idx1-ubyte.gz",
-    "data/FashionMNIST/raw/t10k-images-idx3-ubyte",
-    "data/FashionMNIST/raw/t10k-images-idx3-ubyte.gz",
-    "data/FashionMNIST/raw/train-labels-idx1-ubyte",
     "deep_Learning/3.什么是卷积神经网络？.md",
-    "deep_Learning/6.Gradient desent for neural network.md",
-    "deep_Learning/5.Batch Normalization.md"
+    "deep_Learning/6.Gradient desent for neural network.md"
   ]
 }
