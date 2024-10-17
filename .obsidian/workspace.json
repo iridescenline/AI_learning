@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "deep_learning/softmax.md",
+                "file": "deep_learning/softmax回归.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "softmax"
+              "title": "softmax回归"
             }
           }
         ]
@@ -166,6 +166,7 @@
   },
   "active": "6617e8810e9ab01d",
   "lastOpenFiles": [
+    "code/Untitled.ipynb",
     "machine-learning/5.Regularization正则.md",
     "deep_learning/3.什么是卷积神经网络？.md",
     "deep_learning/图像插值.md",
@@ -173,9 +174,8 @@
     "deep_learning/正则化.md",
     "deep_learning/Batch Normalization.md",
     "deep_learning/转置卷积.md",
-    "deep_learning/softmax.md",
+    "deep_learning/softmax回归.md",
     "code/LeNet.ipynb",
-    "code/Untitled.ipynb",
     "code/Untitled Folder",
     "code",
     "Untitled Folder",
@@ -211,7 +211,6 @@
     "考核内容/Pasted image 20241005181950.png",
     "考核内容/Pasted image 20241005180709.png",
     "未命名.canvas",
-    "deep_Learning/3.什么是卷积神经网络？.md",
-    "deep_Learning/6.Gradient desent for neural network.md"
+    "deep_Learning/3.什么是卷积神经网络？.md"
   ]
 }
