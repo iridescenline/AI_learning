@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"b808a5493afbb687","type":"text","text":"   LSTM","x":-500,"y":-320,"width":120,"height":60,"color":"3"},
+		{"id":"cd6754db9a1c66d1","type":"text","text":"RNN","x":-260,"y":-420,"width":120,"height":50,"color":"2"},
+		{"id":"fbdd66b64a45b1c4","type":"text","text":"RNN的原理","x":-60,"y":-480,"width":160,"height":60,"color":"6"},
+		{"id":"4ce6d28ef6ea7211","type":"text","text":"RNN的缺陷","x":-60,"y":-370,"width":160,"height":50,"color":"6"},
+		{"id":"70b20371efeb3dbd","type":"text","text":"梯度消失与梯度爆炸","x":180,"y":-370,"width":240,"height":50,"color":"6"},
+		{"id":"4e371047cf6c1e8e","type":"text","text":"LSTM","x":-260,"y":-100,"width":120,"height":50,"color":"2"},
+		{"id":"651f09004c01699a","type":"file","file":"思维导图/Pasted image 20241106172442.png","x":180,"y":-559,"width":399,"height":164}
+	],
+	"edges":[
+		{"id":"93de54613ce1568e","fromNode":"b808a5493afbb687","fromSide":"right","toNode":"cd6754db9a1c66d1","toSide":"left"},
+		{"id":"79a3b8ec886e088b","fromNode":"cd6754db9a1c66d1","fromSide":"right","toNode":"fbdd66b64a45b1c4","toSide":"left"},
+		{"id":"9fa108d1ea3a084c","fromNode":"cd6754db9a1c66d1","fromSide":"right","toNode":"4ce6d28ef6ea7211","toSide":"left"},
+		{"id":"9b1b3e3de2f419c7","fromNode":"4ce6d28ef6ea7211","fromSide":"right","toNode":"70b20371efeb3dbd","toSide":"left"},
+		{"id":"18b63292f8291812","fromNode":"b808a5493afbb687","fromSide":"right","toNode":"4e371047cf6c1e8e","toSide":"left"},
+		{"id":"c718e1511885aa0f","fromNode":"fbdd66b64a45b1c4","fromSide":"right","toNode":"651f09004c01699a","toSide":"left"}
+	]
+}

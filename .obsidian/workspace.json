@@ -41,10 +41,10 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "未命名.canvas",
+                "file": "思维导图/未命名.canvas",
                 "viewState": {
-                  "x": 0,
-                  "y": -93,
+                  "x": 39.5,
+                  "y": -211.5,
                   "zoom": 0
                 }
               },
@@ -197,14 +197,17 @@
   },
   "active": "deaebffdf9de89fd",
   "lastOpenFiles": [
+    "思维导图",
+    "思维导图/Pasted image 20241106172442.png",
+    "思维导图/未命名.canvas",
+    "deep_learning/循环神经网络RNN.md",
+    "deep_learning/2.什么是神经网络？.md",
     "未命名 1.canvas",
-    "未命名.canvas",
     "2024-11-06.md",
     "deep_learning/softmax回归.md",
     "deep_learning/Xavier初始化.md",
     "deep_learning/bias-variance tradeoff.md",
     "deep_learning/Batch Normalization.md",
-    "deep_learning/循环神经网络RNN.md",
     "deep_learning/3.什么是卷积神经网络？.md",
     "code/Untitled.ipynb",
     "machine-learning/5.Regularization正则.md",
@@ -217,10 +220,8 @@
     "code",
     "Untitled Folder",
     "deep_learning/Gradient desent for neural network.md",
-    "未命名",
     "deep_learning/0.Intro.md",
     "考核内容/FCN.md",
-    "deep_learning/2.什么是神经网络？.md",
     "deep_learning/1.感知机.md",
     "machine-learning/2.Linear Regression 线性回归.md",
     "machine-learning/3.Multiple linear regression 多元线性回归.md",
@@ -242,7 +243,6 @@
     "考核内容/Pasted image 20241010140940.png",
     "考核内容/Pasted image 20241010132855.png",
     "考核内容/Pasted image 20241005182546.png",
-    "考核内容/Pasted image 20241005181950.png",
-    "考核内容/Pasted image 20241005180709.png"
+    "考核内容/Pasted image 20241005181950.png"
   ]
 }
