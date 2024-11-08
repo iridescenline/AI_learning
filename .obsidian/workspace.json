@@ -39,17 +39,14 @@
             "id": "deaebffdf9de89fd",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "思维导图/未命名.canvas",
-                "viewState": {
-                  "x": 39.5,
-                  "y": -211.5,
-                  "zoom": 0
-                }
+                "file": "deep_learning/1.感知机.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "未命名"
+              "icon": "lucide-file",
+              "title": "1.感知机"
             }
           }
         ],
@@ -197,9 +194,9 @@
   },
   "active": "deaebffdf9de89fd",
   "lastOpenFiles": [
+    "思维导图/未命名.canvas",
     "思维导图",
     "思维导图/Pasted image 20241106172442.png",
-    "思维导图/未命名.canvas",
     "deep_learning/循环神经网络RNN.md",
     "deep_learning/2.什么是神经网络？.md",
     "未命名 1.canvas",
