@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "deep_learning/softmax回归.md",
+                "file": "deep_learning/简单了解transfomer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "softmax回归"
+              "title": "简单了解transfomer"
             }
           }
         ],
@@ -106,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5
+    "width": 298.5,
+    "collapsed": true
   },
   "right": {
     "id": "9773e58b48c23187",
@@ -194,30 +195,30 @@
   },
   "active": "deaebffdf9de89fd",
   "lastOpenFiles": [
+    "deep_learning/Gradient desent for neural network.md",
+    "deep_learning/bias-variance tradeoff.md",
+    "deep_learning/简单了解transfomer.md",
+    "deep_learning/Xavier初始化.md",
+    "deep_learning/softmax回归.md",
+    "deep_learning/Batch Normalization.md",
+    "deep_learning/转置卷积.md",
     "deep_learning/正则化.md",
+    "deep_learning/图像插值.md",
     "deep_learning/1.感知机.md",
     "思维导图/未命名.canvas",
     "思维导图",
     "思维导图/Pasted image 20241106172442.png",
-    "deep_learning/循环神经网络RNN.md",
     "deep_learning/2.什么是神经网络？.md",
     "未命名 1.canvas",
     "2024-11-06.md",
-    "deep_learning/softmax回归.md",
-    "deep_learning/Xavier初始化.md",
-    "deep_learning/bias-variance tradeoff.md",
-    "deep_learning/Batch Normalization.md",
     "deep_learning/3.什么是卷积神经网络？.md",
     "code/Untitled.ipynb",
     "machine-learning/5.Regularization正则.md",
-    "deep_learning/图像插值.md",
     "deep_learning/4.经典网络.md",
-    "deep_learning/转置卷积.md",
     "code/LeNet.ipynb",
     "code/Untitled Folder",
     "code",
     "Untitled Folder",
-    "deep_learning/Gradient desent for neural network.md",
     "deep_learning/0.Intro.md",
     "考核内容/FCN.md",
     "machine-learning/2.Linear Regression 线性回归.md",
