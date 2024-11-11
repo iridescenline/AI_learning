@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "deep_learning/softmax回归.md",
+                "file": "deep_learning/Self-Attention.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "softmax回归"
+              "title": "Self-Attention"
             }
           },
           {
@@ -41,16 +41,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "deep_learning/简单了解transfomer.md",
+                "file": "deep_learning/Self-Attention.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "简单了解transfomer"
+              "title": "Self-Attention"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -193,13 +193,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "deaebffdf9de89fd",
+  "active": "61c73ba7aa744410",
   "lastOpenFiles": [
+    "deep_learning/softmax回归.md",
+    "deep_learning/Self-Attention.md",
     "deep_learning/Gradient desent for neural network.md",
     "deep_learning/bias-variance tradeoff.md",
-    "deep_learning/简单了解transfomer.md",
     "deep_learning/Xavier初始化.md",
-    "deep_learning/softmax回归.md",
     "deep_learning/Batch Normalization.md",
     "deep_learning/转置卷积.md",
     "deep_learning/正则化.md",
