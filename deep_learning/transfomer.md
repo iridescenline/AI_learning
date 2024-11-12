@@ -28,4 +28,6 @@ Masked Multi-Head Attention
 ![74a96adea0b897bd910c67118df587b.jpg](https://erin-53347-1330131220.cos.ap-guangzhou.myqcloud.com/202411122141769.jpg)
 
 
-那么，decoder是如何输出正确的输出序列长度的呢？
+那么，decoder是如何输出正确的输出序列长度的呢？添加一个stop token。
+![af5de95e2e7b7879202137b63804c24.jpg](https://erin-53347-1330131220.cos.ap-guangzhou.myqcloud.com/202411122149013.jpg)
+当decoder输出“习”时，并把“习”当作decoder的输入之后，decoder要能够输出“end”。
