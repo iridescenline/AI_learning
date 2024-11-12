@@ -1,0 +1,2 @@
+word embedding+encoder+decoder
+
