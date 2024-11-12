@@ -26,3 +26,6 @@ decoder的一部分输入来源于自己的输出。（这也是为什么decoder
 Masked Multi-Head Attention
 ![102d18c0f859f39ed5232dec047c736.jpg](https://erin-53347-1330131220.cos.ap-guangzhou.myqcloud.com/202411122141387.jpg)
 ![74a96adea0b897bd910c67118df587b.jpg](https://erin-53347-1330131220.cos.ap-guangzhou.myqcloud.com/202411122141769.jpg)
+
+
+那么，decoder是如何输出正确的输出序列长度的呢？
