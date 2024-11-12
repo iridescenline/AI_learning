@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "deep_learning/Self-Attention.md",
+                "file": "deep_learning/Self-Attention与Multi-Head Attention.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Self-Attention"
+              "title": "Self-Attention与Multi-Head Attention"
             }
           }
         ]
@@ -167,7 +167,7 @@
   "active": "deaebffdf9de89fd",
   "lastOpenFiles": [
     "deep_learning/Batch Normalization.md",
-    "deep_learning/Self-Attention.md",
+    "deep_learning/Self-Attention与Multi-Head Attention.md",
     "deep_learning/softmax回归.md",
     "deep_learning/Gradient desent for neural network.md",
     "deep_learning/bias-variance tradeoff.md",
