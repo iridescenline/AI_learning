@@ -20,3 +20,4 @@ ViT首先将输入的224x224图片划分为多个小的视觉块（patch）。�
 ##### 第二步：添加token和位置编码
 ![image.png](https://erin-53347-1330131220.cos.ap-guangzhou.myqcloud.com/202411162111630.png)
 
+![image.png](https://erin-53347-1330131220.cos.ap-guangzhou.myqcloud.com/202411162124433.png)
