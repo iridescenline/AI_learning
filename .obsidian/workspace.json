@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "deep_learning/vit/学习杂碎总结.md",
+                "file": "deep_learning/vit/vit实验结果/vit1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "学习杂碎总结"
+              "title": "vit1"
             }
           },
           {
@@ -236,8 +236,8 @@
   },
   "active": "132c6785aec7e98b",
   "lastOpenFiles": [
-    "deep_learning/vit/self-attention.md",
     "deep_learning/vit/学习杂碎总结.md",
+    "deep_learning/vit/self-attention.md",
     "deep_learning/vit/vit实验结果/vit1.md",
     "deep_learning/vit/vit（base16_in21k).md",
     "deep_learning/图像插值.md",
