@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "deep_learning/vit/自注意机制.md",
+                "file": "deep_learning/vit/自注意力机制self-attention.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "自注意机制"
+              "title": "自注意力机制self-attention"
             }
           }
         ],
@@ -209,7 +209,7 @@
   "active": "4eb2d26c654d6111",
   "lastOpenFiles": [
     "vit实验结果/vit1.md",
-    "deep_learning/vit/自注意机制.md",
+    "deep_learning/vit/自注意力机制self-attention.md",
     "deep_learning/vit",
     "code/vit/large32.png",
     "code/vit/large16.png",
