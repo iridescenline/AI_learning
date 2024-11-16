@@ -43,3 +43,7 @@ Ps:为了避免得分过大，引入缩放因子$\sqrt{d}$
 ![image.png](https://erin-53347-1330131220.cos.ap-guangzhou.myqcloud.com/202411162034368.png)
 
 $b^i=W^o\cdot(b^{i,1},b^{i,2})$
+
+
+###位置编码（position encoding）
+提供关于输入序列中各个元素位置的信息。有了位置编码，模型能够更好地理解元素之间的相对位置关系，从而捕捉到序列中的时间或空间结构。
