@@ -24,5 +24,11 @@ ViT首先将输入的224x224图片划分为多个小的视觉块（patch）。�
 
 ![image.png](https://erin-53347-1330131220.cos.ap-guangzhou.myqcloud.com/202411162124433.png)
 
-### 第三步 encoder block
+### 第三步 encoder block  （x12）
+
+![image.png](https://erin-53347-1330131220.cos.ap-guangzhou.myqcloud.com/202411162137158.png)
+
 ![image.png](https://erin-53347-1330131220.cos.ap-guangzhou.myqcloud.com/202411162136954.png)
+
+![image.png](https://erin-53347-1330131220.cos.ap-guangzhou.myqcloud.com/202411162138912.png)
+
