@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -234,10 +234,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "132c6785aec7e98b",
+  "active": "ec69a2bb9b324058",
   "lastOpenFiles": [
-    "deep_learning/vit/vit实验结果/vit1.md",
     "deep_learning/vit/学习杂碎总结.md",
+    "deep_learning/vit/vit实验结果/vit1.md",
     "deep_learning/vit/self-attention.md",
     "deep_learning/vit/vit（base16_in21k).md",
     "deep_learning/图像插值.md",
