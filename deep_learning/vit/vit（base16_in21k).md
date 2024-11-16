@@ -2,7 +2,9 @@
 ##### 第一步：分割展平嵌入(patch embedding)
 ![image.png](https://erin-53347-1330131220.cos.ap-guangzhou.myqcloud.com/202411162111832.png)
 
-![image.png](https://erin-53347-1330131220.cos.ap-guangzhou.myqcloud.com/202411162106718.png)
+![image.png](https://erin-53347-1330131220.cos.ap-guangzhou.myqcloud.com/202411162127486.png)
+
+![image.png](https://erin-53347-1330131220.cos.ap-guangzhou.myqcloud.com/202411162128013.png)
 
 **图片分割**
 
