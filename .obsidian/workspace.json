@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vit实验结果/vit1.md",
+                "file": "deep_learning/图像插值.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "vit1"
+              "title": "图像插值"
             }
           },
           {
@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -221,10 +221,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ec69a2bb9b324058",
+  "active": "3a2bcb86d3b7a323",
   "lastOpenFiles": [
-    "deep_learning/vit/self-attention.md",
     "deep_learning/vit/vit（base16_in21k).md",
+    "deep_learning/vit/vit实验结果/vit1.md",
+    "deep_learning/vit/vit实验结果",
+    "deep_learning/vit/ViT_large32_in21k.ipynb",
+    "deep_learning/vit/ViT_large16_in21k.ipynb",
+    "deep_learning/vit/ViT_base32_in21k.ipynb",
+    "deep_learning/vit/ViT_base16_in21k.ipynb",
+    "code/vit/ViT_large32_in21k.ipynb",
+    "code/vit/ViT_large16_in21k.ipynb",
+    "code/vit/ViT_base32_in21k.ipynb",
+    "code/vit/ViT_base16_in21k.ipynb",
+    "deep_learning/vit/self-attention.md",
     "vit实验结果/vit1.md",
     "deep_learning/vit",
     "code/vit/large32.png",
@@ -234,22 +244,13 @@
     "deep_learning/图像插值.md",
     "code/vit/sun_daisy.jpg",
     "code/vit/sun8.jpg",
-    "code/vit/ViT.ipynb",
     "deep_learning/未命名.md",
     "deep_learning/Xavier初始化.md",
     "deep_learning/0.Intro.md",
     "code/vit/daisy3.png",
     "code/vit/dand11.jpeg",
-    "code/vit/dand11.jpeg.crdownload",
     "code/vit/dand10.jpeg",
     "code/vit/dand10.png",
-    "code/vit/dand10.png.crdownload",
-    "code/vit/dand01.jpeg.crdownload",
-    "code/vit/rose10.jpg.crdownload",
-    "code/vit/rose10.jpeg.crdownload",
-    "code/vit/tulips01.jpg.crdownload",
-    "code/vit/tulips_daisy.jpg.crdownload",
-    "code/vit/rose01.jpg.crdownload",
     "deep_learning/transfomer.md",
     "deep_learning/Self-Attention与Multi-Head Attention.md",
     "deep_learning/转置卷积.md",
@@ -269,7 +270,6 @@
     "考核内容/FCN.md",
     "machine-learning/2.Linear Regression 线性回归.md",
     "machine-learning/3.Multiple linear regression 多元线性回归.md",
-    "machine-learning/4.Classification分类.md",
-    "machine-learning/1.监督学习与无监督学习.md"
+    "machine-learning/4.Classification分类.md"
   ]
 }
