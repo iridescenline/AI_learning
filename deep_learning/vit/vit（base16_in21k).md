@@ -32,3 +32,7 @@ ViT首先将输入的224x224图片划分为多个小的视觉块（patch）。�
 
 ![image.png](https://erin-53347-1330131220.cos.ap-guangzhou.myqcloud.com/202411162138912.png)
 
+第四步：mlp层
+![image.png](https://erin-53347-1330131220.cos.ap-guangzhou.myqcloud.com/202411162147519.png)
+
+![image.png](https://erin-53347-1330131220.cos.ap-guangzhou.myqcloud.com/202411162147087.png)
