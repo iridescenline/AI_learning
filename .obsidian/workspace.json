@@ -194,6 +194,7 @@
   },
   "active": "3a2bcb86d3b7a323",
   "lastOpenFiles": [
+    "code/vit/ViT.ipynb",
     "deep_learning/未命名.md",
     "deep_learning/图像插值.md",
     "deep_learning/Xavier初始化.md",
@@ -240,7 +241,6 @@
     "machine-learning/3.Multiple linear regression 多元线性回归.md",
     "machine-learning/4.Classification分类.md",
     "machine-learning/1.监督学习与无监督学习.md",
-    "10.16/数据操作.md",
-    "考核内容/ResNet.md"
+    "10.16/数据操作.md"
   ]
 }
