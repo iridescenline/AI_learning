@@ -2,9 +2,7 @@
 ##### 第一步：分割展平嵌入(patch embedding)
 ![image.png](https://erin-53347-1330131220.cos.ap-guangzhou.myqcloud.com/202411162111832.png)
 
-![image.png](https://erin-53347-1330131220.cos.ap-guangzhou.myqcloud.com/202411162127486.png)
 
-![image.png](https://erin-53347-1330131220.cos.ap-guangzhou.myqcloud.com/202411162128013.png)
 
 **图片分割**
 
@@ -22,7 +20,7 @@ ViT首先将输入的224x224图片划分为多个小的视觉块（patch）。�
 ##### 第二步：添加token和位置编码（以及一层dropout）
 ![image.png](https://erin-53347-1330131220.cos.ap-guangzhou.myqcloud.com/202411162111630.png)
 
-![image.png](https://erin-53347-1330131220.cos.ap-guangzhou.myqcloud.com/202411162124433.png)
+
 
 ### 第三步 encoder block  （x12）
 
@@ -30,9 +28,10 @@ ViT首先将输入的224x224图片划分为多个小的视觉块（patch）。�
 
 ![image.png](https://erin-53347-1330131220.cos.ap-guangzhou.myqcloud.com/202411162136954.png)
 
-![image.png](https://erin-53347-1330131220.cos.ap-guangzhou.myqcloud.com/202411162138912.png)
 
 第四步：mlp层
 ![image.png](https://erin-53347-1330131220.cos.ap-guangzhou.myqcloud.com/202411162147519.png)
 
 ![image.png](https://erin-53347-1330131220.cos.ap-guangzhou.myqcloud.com/202411162147087.png)
+
+第五步：decoder层
